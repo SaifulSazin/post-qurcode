@@ -1,1 +1,1 @@
-# post-qurcode
+# post-qurcode Wordpress plugin
